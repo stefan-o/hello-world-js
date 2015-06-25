@@ -1,0 +1,29 @@
+{
+  "name": "hello-world-js",
+  "version": "1.0.0",
+  "description": "Hello World in Express and Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Obradovic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stefan-o/hello-world-js.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/stefan-o/hello-world-js/issues"
+  },
+  "readme": "README.md",
+  "homepage": "https://github.com/stefan-o/hello-world-js#readme"
+}
